@@ -25,7 +25,7 @@ namespace MultiFaceRec
             EmployeeLogIn employeeLogIn = new EmployeeLogIn();
             employeeLogIn.Show();
             this.Hide();
-            //Hello!!!!
+            //Hello!!!!aaa
         }
 
         private void btnContinue_Click(object sender, EventArgs e)
